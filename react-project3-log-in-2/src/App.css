@@ -1,0 +1,10 @@
+.App {
+  background-color: #f1f1f1;
+  background-image: url('https://64.media.tumblr.com/91291efb3608dd876cedebf2d714f9be/ecec945322b8f930-2c/s500x750/44485e8c2809f62dc1e14807b8c4f0ffed986573.gifv');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

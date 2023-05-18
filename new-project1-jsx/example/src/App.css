@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h2{
+  text-align: center;
+  margin-top: 20px;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+input{
+  width: 200px;
+  height: 30px;
+  padding: 10px;
+}
+button{
+  width: 70px;
+  height: 30px;
+}
